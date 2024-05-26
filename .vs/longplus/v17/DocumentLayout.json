@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\uACFC\uC81C\\c\u002B\u002B\\longplus\\",
+  "WorkspaceRootPath": "C:\\Users\\ycs22\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACFC\uC81C\\C\u002B\u002B\\longplus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{782FE81C-9DA6-4363-8FE4-3A3828AB31C7}|longplus\\longplus.vcxproj|C:\\Users\\USER\\Desktop\\\uACFC\uC81C\\c\u002B\u002B\\longplus\\longplus\\longplus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{782FE81C-9DA6-4363-8FE4-3A3828AB31C7}|longplus\\longplus.vcxproj|C:\\Users\\ycs22\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACFC\uC81C\\C\u002B\u002B\\longplus\\longplus\\longplus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{782FE81C-9DA6-4363-8FE4-3A3828AB31C7}|longplus\\longplus.vcxproj|solutionrelative:longplus\\longplus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{782FE81C-9DA6-4363-8FE4-3A3828AB31C7}|longplus\\longplus.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\XSTRING||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,23 +24,22 @@
               "DocumentIndex": 1,
               "Title": "xstring",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring",
               "ViewState": "AQIAANAPAAAAAAAAAAAqwOEPAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-26T12:27:15.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T12:27:15.377Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "longplus.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uACFC\uC81C\\c\u002B\u002B\\longplus\\longplus\\longplus.cpp",
+              "DocumentMoniker": "C:\\Users\\ycs22\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACFC\uC81C\\C\u002B\u002B\\longplus\\longplus\\longplus.cpp",
               "RelativeDocumentMoniker": "longplus\\longplus.cpp",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\\uACFC\uC81C\\c\u002B\u002B\\longplus\\longplus\\longplus.cpp",
+              "ToolTip": "C:\\Users\\ycs22\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACFC\uC81C\\C\u002B\u002B\\longplus\\longplus\\longplus.cpp",
               "RelativeToolTip": "longplus\\longplus.cpp",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAABQAAAASAAAA",
+              "ViewState": "AQIAAO4BAAAAAAAAAAAAAHsBAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-26T06:02:43.711Z",
               "EditorCaption": ""

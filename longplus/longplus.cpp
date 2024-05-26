@@ -370,7 +370,7 @@ std::string calc_minus(std::string a, std::string b) {      //calc_plus의 반�
 
         //각 자릿수 더하기
         if (ca + cb == 0) {       // 양수인경우
-            if (a.compare(b) >= 0) {            //a의 절댓값이 큰 경우
+            if (a[0] == b[0] && a.compare(b) >= 0 || a[0] != 'z' && b[0] == 'z' || a[0] != 'z' && b[0] != 'z' && a[0] > b[0]) {            //a의 절댓값이 큰 경우
                 for (i = 0; i < size; i++) {
                     if (b[i] == 'z') {
                         answer += a[i];
@@ -392,7 +392,7 @@ std::string calc_minus(std::string a, std::string b) {      //calc_plus의 반�
         }
         else {              //음수인경우
 
-            if ((a.substr(1)).compare(b.substr(1)) >= 0) {            //a의 절댓값이 큰 경우
+            if (a[1] == b[1] && (a.substr(1)).compare(b.substr(1)) >= 0 || a[0] != 'z' && b[0] == 'z' || a[0] == '-' && b[0] == '-' && a[1] > b[1]) {            //a의 절댓값이 큰 경우
                 for (i = 0; i < size; i++) {
                     if (b[i] == 'z') {
                         answer += a[i];
@@ -484,12 +484,12 @@ std::string calc_multi(std::string a, std::string b) {
     ca = a[0] != '-' ? 1 : 0;
     cb = b[0] != '-' ? 1 : 0;
 
-    if (a == calc_minus(one, one) || b == calc_minus(one, one)) {       //둘중 하나라도 0일때
-        answer = calc_minus(one, one);                                  //calc_minus(one, one) == 0
-    } else                                                              //좀더 일찍 떠올렸으면 전역변수에 선언해서 편하게 했을텐데;;
+    if (a == zero || b == zero) {       //둘중 하나라도 0일때
+        answer = zero;                                          //좀더 일찍 떠올렸으면 전역변수에 선언해서 편하게 했을텐데;;
+    } else
     if (ca + cb == 2) {             //둘다 양수일때
         do {
-            if (i != calc_minus(one, one)) break;
+            if (i == zero) break;
             i = calc_minus(i, one);
             answer = calc_plus(answer, b);
         } while (true);
@@ -499,7 +499,7 @@ std::string calc_multi(std::string a, std::string b) {
         b.erase(0, 1);              //'-'기호 제거
         i.erase(0, 1);
         do {
-            if (i != calc_minus(one, one)) break;
+            if (i == zero) break;
             i = calc_minus(i, one);
             answer = calc_plus(answer, b);
         } while (true);
@@ -515,11 +515,12 @@ std::string calc_multi(std::string a, std::string b) {
         }
 
         do {
-            if (i != calc_minus(one, one)) break;
+            if (i == zero) break;
             i = calc_minus(i, one);
             answer = calc_plus(answer, b);
         } while (true);
         answer = '-' + answer;
     }
+
     return answer;
 }
