@@ -1,11 +1,17 @@
 ﻿  longplus.cpp
-C:\Users\ycs22\OneDrive\바탕 화면\과제\.vs\과제\longplus\longplus\longplus.cpp(35,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\ycs22\OneDrive\바탕 화면\과제\.vs\과제\longplus\longplus\longplus.cpp(40,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\ycs22\OneDrive\바탕 화면\과제\.vs\과제\longplus\longplus\longplus.cpp(63,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\ycs22\OneDrive\바탕 화면\과제\.vs\과제\longplus\longplus\longplus.cpp(82,33): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\ycs22\OneDrive\바탕 화면\과제\.vs\과제\longplus\longplus\longplus.cpp(95,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\ycs22\OneDrive\바탕 화면\과제\.vs\과제\longplus\longplus\longplus.cpp(122,33): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\ycs22\OneDrive\바탕 화면\과제\.vs\과제\longplus\longplus\longplus.cpp(135,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\ycs22\OneDrive\바탕 화면\과제\.vs\과제\longplus\longplus\longplus.cpp(238,37): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\ycs22\OneDrive\바탕 화면\과제\.vs\과제\longplus\longplus\longplus.cpp(255,37): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  longplus.vcxproj -> C:\Users\ycs22\OneDrive\바탕 화면\과제\.vs\과제\longplus\x64\Debug\longplus.exe
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(40,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(45,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(68,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(87,33): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(100,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(127,33): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(140,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(238,37): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(261,37): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(291,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(318,37): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(353,37): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(369,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(431,33): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제\c++\longplus\longplus\longplus.cpp(456,33): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  longplus.vcxproj -> C:\Users\USER\Desktop\과제\c++\longplus\x64\Debug\longplus.exe
